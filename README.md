@@ -12,7 +12,7 @@ Before you begin, ensure you meet the following requirements:
 
 ## Installation
 To set up the project environment, follow these steps:
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/SolarDegradationML.git
+1. Clone the repository to your local machine: git clone <https://github.com/yourusername/SolarDegradationML.git](https://github.com/jbenzaquen42/SolarDegradationML.git>
 2. Navigate to the project directory: cd SolarDegradationML
 3. Install the required Python libraries: pip install -r requirements.txt
 
