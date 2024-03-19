@@ -33,10 +33,6 @@ To contribute to `SolarDegradationML`, follow these steps:
 
 Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
-## Contributors
-Thanks to the following people who have contributed to this project:
-- [@yourusername](https://github.com/yourusername)
-
 ## Contact
 If you want to contact me you can reach me at <jacobbenzaquen53@gmail.com>.
 
